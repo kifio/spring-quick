@@ -1,5 +1,7 @@
-package me.kifio.demo;
+package me.kifio.demo.controller;
 
+import me.kifio.demo.model.dto.Product;
+import me.kifio.demo.model.service.ProductService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,4 +1,4 @@
-package me.kifio.demo;
+package me.kifio.demo.model.dto;
 
 public class Product {
 
