@@ -8,4 +8,4 @@
  - spring-boot - главы про создание web приложений с использованием spring boot.
  - database - глава 12 jdbc.
  - transactions - глава 13 про транзакции.
- - spring-data - глава 14 про использование spring-data фреймворка.
+ - spring-data - главы 14 и 15 про использование spring-data фреймворка и тестирование с помощью JUnit и Mockito.
